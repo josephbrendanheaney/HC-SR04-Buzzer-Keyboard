@@ -14,7 +14,7 @@ void setup()
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
   pinMode(buzzerPin, OUTPUT);
-  Serial.begin(131); // Start at frequency of low C before any distance is detected.
+  Serial.begin(131); // D
 }
 
 void loop()
