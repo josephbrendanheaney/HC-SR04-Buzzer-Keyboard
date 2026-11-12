@@ -1,5 +1,5 @@
 # HC-SR04 AIR KEYBOARD
-C# code for the Arduino IDE using the ultrasonic sensor and the buzzer to recreate the leftmost C to B inclusive white keys on a keyboard. Place the sensor directly to the left of where the 'air keyboard' will start.
+C# code for the Arduino IDE using the ultrasonic sensor and the buzzer to recreate the leftmost C to C inclusive white keys on a keyboard. Place the sensor directly to the left of where the 'air keyboard' will start.
 // Joseph Heaney - Air keyboard finished with pulse echo sensor.
 // Connected buzzer negative pin to ground rail with 220 ohm resistor. This gives a good, quieter volume.
 const int trigPin = 5;
